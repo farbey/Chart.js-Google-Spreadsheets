@@ -29,7 +29,7 @@ reversedDates=''
 reversedDesktop =''
 reversedMobile =''
 reversedTablet =''
-maxRange = 7
+maxRange = 14
 
 for x in range(0, maxRange):
 

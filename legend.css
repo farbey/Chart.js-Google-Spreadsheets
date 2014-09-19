@@ -6,8 +6,9 @@
 }
 
 .legend {
-    width: 10em;
-    margin-left: 7em;
+    width: 360px;
+    margin-left: 7%;
+    padding-top: 3px;
     }
 
 .legend .title {
