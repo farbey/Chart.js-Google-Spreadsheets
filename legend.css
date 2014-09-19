@@ -7,9 +7,12 @@
 
 .legend {
     width: 360px;
-    margin-left: 7%;
-    padding-top: 3px;
+padding-left: 90px;
+     padding-top: 3px;
     }
+    .holdLegend{
+        width: 360px;
+}
 
 .legend .title {
     margin: 0.2em;
